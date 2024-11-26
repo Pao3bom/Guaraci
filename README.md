@@ -1,2 +1,18 @@
-# Guaraci
-Guaraci: Uma Base de Dados Unificada Brasileira sobre Informações Genômicas e Epidemiológicas de Doenças Negligenciadas Tropicais
+# Guaraci: 
+Guaraci is an undergraduate research project with the goal of developing an Unified Database of Epidemiologic and Genomic Data pertaining to Neglected Tropical Diseases.
+
+The focus of the current stage of development pertains to epidemiologic data of the respective conditions in Brazil, extracting the data specially from [Datasus - Tabnet](https://datasus.saude.gov.br/informacoes-de-saude-tabnet/), organizing it as a database, and — as the final step of this stage — developing a back and front-end so that others could easily access this data online.
+
+PROGRESS:
+ - **\[Complete\]** Data Extraction from Datasus
+ - **\[Complete\]** Treatment of the Data ( [dbc2csv](https://github.com/greatjapa/dbc2csv) was used in the conversion of Datasus unique data type into csv )
+ - **\[Complete\]** Deployment of a SQLite Database
+
+\
+CURRENT TASK:
+- Back-end Planning and Implementation
+
+\
+\
+Onde this starting stage is finished and resources are obtained the project will move forward to the extraction of genomic data.
+
