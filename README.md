@@ -5,7 +5,7 @@ The focus of the current stage of development pertains to epidemiologic data of 
 
 PROGRESS:
  - **\[Complete\]** Data Extraction from Datasus
- - **\[Complete\]** Treatment of the Data ([dbc2csv](https://github.com/greatjapa/dbc2csv) was used in the conversion of Datasus' unique data type into csv)
+ - **\[Complete\]** Treatment of the Data (Of note is the repository [dbc2csv](https://github.com/greatjapa/dbc2csv) which was used to convert of Datasus' unique data type into csv)
  - **\[Complete\]** Deployment of a SQLite Database
 
 \
